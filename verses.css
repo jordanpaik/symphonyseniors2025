@@ -1,5 +1,5 @@
 body {
-    background: #cbbdcf;
+    background: #938f9b;
 }
 
 #back {
@@ -35,7 +35,8 @@ article {
     border: 2px solid black;
     padding: 15px;
     margin: 25px 0;
-    background-color: #d8e7e7;
+    background-color: #e3dfeb ;
+    padding: 30px;
 }
 
 @media screen and (max-width: 1300px) {

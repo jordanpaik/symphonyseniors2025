@@ -19,7 +19,7 @@ section {
     padding: 0 50px;
 }
 
-p{
+p {
     padding: 10px;
     text-align: center;
     display: flex;
@@ -27,6 +27,7 @@ p{
     align-items: center;
     flex-direction: column;
     font: italic 20px sans-serif;
+    color: #34495e;
 }
 
 @media screen and (max-width: 1000px) {
